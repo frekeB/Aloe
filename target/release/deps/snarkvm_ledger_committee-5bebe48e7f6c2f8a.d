@@ -1,0 +1,10 @@
+/Users/mac/Desktop/leo/target/release/deps/libsnarkvm_ledger_committee-5bebe48e7f6c2f8a.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/bytes.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/serialize.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/string.rs
+
+/Users/mac/Desktop/leo/target/release/deps/libsnarkvm_ledger_committee-5bebe48e7f6c2f8a.rlib: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/bytes.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/serialize.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/string.rs
+
+/Users/mac/Desktop/leo/target/release/deps/snarkvm_ledger_committee-5bebe48e7f6c2f8a.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/bytes.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/serialize.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/string.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/bytes.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/serialize.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snarkvm-ledger-committee-0.16.15/src/string.rs:

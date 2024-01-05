@@ -1,0 +1,1 @@
+{"rustc":14069956780276445298,"features":"","target":0,"profile":0,"path":0,"deps":[[6701623151230136011,"build_script_build",false,4061657104702568274],[769710059097391761,"build_script_build",false,8372591847365885660]],"local":[{"RerunIfChanged":{"output":"release/build/leo-lang-ee7177d97c321563/output","paths":["."]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
